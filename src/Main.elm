@@ -1,6 +1,6 @@
-module Main exposing (answer)
+module Main exposing (foo)
 
 
-answer : Int
-answer =
+foo : Int
+foo =
     42

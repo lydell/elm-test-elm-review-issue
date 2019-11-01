@@ -9,5 +9,5 @@ suite : Test
 suite =
     test "sanity-check" <|
         \_ ->
-            Main.answer
+            Main.foo
                 |> Expect.equal 42
